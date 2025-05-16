@@ -8,7 +8,7 @@ Voici le body de la requête pour ajouter une tâche.
 {
     title: "titre",
     location: "lieu",
-    startTime: "YYYY-MM-ddTHH:mm"
+    startTime: "YYYY-MM-ddTHH:mm",
     endTime: "YYYY-MM-ddTHH:mm"
 }
 ```
